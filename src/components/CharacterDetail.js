@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 const CharacterDetail = (props) => {
   if (!props.character) {
     return 'loading...';
@@ -15,6 +17,9 @@ const CharacterDetail = (props) => {
             <p>Job: {job}</p>
             <p>Specie: {species}</p>
             <p>Gender: {gender}</p>
+            <Link to="/" className="reset">
+              Reset
+            </Link>
           </section>
         </section>
       </>
