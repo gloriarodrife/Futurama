@@ -18,7 +18,7 @@ const CharacterDetail = (props) => {
             <p>Specie: {species}</p>
             <p>Gender: {gender}</p>
             <Link to="/" className="reset">
-              Reset
+              Back
             </Link>
           </section>
         </section>
