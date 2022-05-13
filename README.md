@@ -1,3 +1,7 @@
+# <<<<<<< HEAD
+
+> > > > > > > d65580d0d6132a5d06406cfa5a01bcefe54734a5
+
 # FUTURAMA
 
 Página web desarrollada con React con un listado de personajes de Futurama obtenidos de una API.
