@@ -4,7 +4,7 @@ Página web desarrollada con React con un listado de personajes de Futurama obte
 
 Para probarlo haz click [aquí](https://gloriarodrife.github.io/Futurama/) y verás la página en funcionamiento.
 
-![image](src/images/Screenshot 2022-05-13 at 7.52.34 PM.png)
+![image](src/images/page.png)
 
 ## Autora: :woman_technologist:
 
