@@ -6,6 +6,3 @@ Para probarlo haz click [aquí](https://gloriarodrife.github.io/Futurama/) y ver
 
 ![image](src/images/page.png)
 
-## Autora: :woman_technologist:
-
-Futura junior frontend developer **Gloria Rodríguez Fernández** [Github](https://github.com/gloriarodrife)
